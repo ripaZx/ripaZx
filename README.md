@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ripaZx
 - 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning template programming in C++ and the graphics pipeline
+- 🌱 I’m currently learning the graphics pipeline
