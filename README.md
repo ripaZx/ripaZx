@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ripaZx
-- 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning the graphics pipeline
+- 👋 Hi, I’m Luca aka @ripaZx.
+- 👀 I’m interested in videogames, programming and blockchain technology.
+- 🌱 I’m currently working on two videogame projects!
