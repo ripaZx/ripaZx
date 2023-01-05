@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luca aka @ripaZx.
-- 👾 Always been and will be a gamer!
+- 👾 Always been and always will be a gamer!
 - 👀 Interested in videogames programming and design, automation and blockchain technology.
 - 🌱 I’m currently working on a videogame project and automating office procedures!
