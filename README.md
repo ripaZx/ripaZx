@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luca aka @ripaZx.
-- 👾 Nintendo and PC avid gamer!
+- 👾 Avid Nintendo and PC gamer!
 - 👀 Interested in videogames programming and design.
 - 🌱 I’m currently working on some videogame projects! 
